@@ -10,16 +10,7 @@ import android.os.Looper
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash)
-
-        Handler(Looper.getMainLooper()).postDelayed({
-            startActivity(
-                Intent(
-                    this@SplashActivity,
-                    HomeActivity::class.java
-                )
-            )
-        }, 3000)
-
+        startActivity(Intent(this@SplashActivity, HomeActivity::class.java))
+        finish()
     }
 }
