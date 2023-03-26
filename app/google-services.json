@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86741308527",
+    "project_id": "wclone-8b7d2",
+    "storage_bucket": "wclone-8b7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86741308527:android:86471b6d3069e26a99a99a",
+        "android_client_info": {
+          "package_name": "com.vik.wclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86741308527-mlmcrt5pncr6kaaropqncuavk30jbgkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7MJdezvTGf1dOuUu7voo0KurYfRas0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86741308527-mlmcrt5pncr6kaaropqncuavk30jbgkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
